@@ -6,7 +6,6 @@
 *Exploring intelligence through data, theory, and code.*
 
 ---
-
 <div align="center">
   <img src="https://github.com/yourusername/yourusername/assets/placeholder/line.gif" width="200" alt="divider" />
 </div>
