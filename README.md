@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 [Danial Jafarzadeh]
+# 🌌 Danial Jafarzadeh
 
 **AI Enthusiast**  
 *Exploring intelligence through data, theory, and code.*
